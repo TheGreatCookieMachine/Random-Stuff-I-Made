@@ -1,0 +1,15 @@
+1.1.0
+- Added a basic form of Population Simulation
+- Added a changelog
+
+1.0.2
+- Fixed formatting in the Readme (I was doing it through Notepad++ so I couldn't preview my mistakes)
+
+1.0.1
+- Added a Readme
+- Fixed formatting in the Fizzbuzz files
+
+1.0
+- Added Dice Roller
+- Added Fizz Buzz
+- Added Number Sorters

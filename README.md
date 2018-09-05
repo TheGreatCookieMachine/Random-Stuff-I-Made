@@ -18,6 +18,10 @@ This sorts a selection of 1000 random numbers.
 
 The two varieties are a simple text version and a Tkinter version. The text version simply out puts the numbers it will sort, and the sorted version of them. The Tkinter version on the other hand actively prints the random numbers and sorted versions as it calculates them, meaning, while it looks nice, it takes much longer to actually work. Also, due to the window size, larger amounts of numbers can make them run off screen. It was ultimately a way for me to try out Tkinter.
 
+##Population Simulation
+
+Despite the name, this isn't meant to accurately simulate the growth of population on Earth, rather I couldn't think of a better name and "Poulation Simulation" had a nice ring to it. Population starts at 100, and every year (Or "tick") population goes up by 1.1%. That does mean you will get the same results every time, however do keep in mind this is a very basic version of it, and while I don't plan on making it over complicated, I will try and add at least some form of randomness.
+
 # Final Notes
 
 All programs here are written in Python 3, so make sure you have Python 3 and not Python 2 if you want to try them.
