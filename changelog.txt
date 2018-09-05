@@ -1,3 +1,6 @@
+1.1.1
+- Removed an unused import in Population Simulation
+
 1.1.0
 - Added a basic form of Population Simulation
 - Added a changelog
