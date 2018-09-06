@@ -1,3 +1,11 @@
+1.1.3
+#Population Simulation
+- Replaced population growth with birth rate and increased it from 0.011 to 0.0186
+- Added a death rate of 0.0078
+- Added minor randomization to both the birth and death rates
+- Added "Bad Years" and "Good Years"
+- Added a small delay in between years
+
 1.1.2
 - Fixed the Readme
 

@@ -20,7 +20,7 @@ The two varieties are a simple text version and a Tkinter version. The text vers
 
 ## Population Simulation
 
-Despite the name, this isn't meant to accurately simulate the growth of population on Earth, rather I couldn't think of a better name and "Poulation Simulation" had a nice ring to it. Population starts at 100, and every year (Or "tick") population goes up by 1.1%. That does mean you will get the same results every time, however do keep in mind this is a very basic version of it, and while I don't plan on making it over complicated, I will try and add at least some form of randomness.
+Despite the name, this isn't meant to accurately simulate the growth of population on Earth, rather I couldn't think of a better name and "Population Simulation" had a nice ring to it. Population starts at 100. Every year (Or "Tick") there will be a minor calculation. It will take a birth rate of 0.0186 and a death rate of 0.0078, and after minor randomization, apply that to the population. However, there is a 10 in 100 chance there will be a "Bad Year". During these birth rates are halved and death rates are doubled. If there is no Bad Year, there will be a 10 in 100 chance for there to be a "Good Year", which doubles birth rates and halves death rates. Bad Years can occur back to back, however Good Years can only occur if more than 10 years have passed since the last Good Year. These are to make it more interesting, where the population isn't as stable nor is it as steep of an incline.
 
 # Final Notes
 
