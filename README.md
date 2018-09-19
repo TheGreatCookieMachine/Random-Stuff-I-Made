@@ -10,8 +10,6 @@ You input your dice as it states, and it will roll the dice for you. Do keep in 
 
 This is a simple program which does the age old game of Fizz Buzz. There isn't really any purpose to it, it was just practice.
 
-The two varieties of this are simply two ways to get to the same point. One uses a for statement and the other uses the map statement.
-
 ## Number Sorter
 
 This sorts a selection of 1000 random numbers.
@@ -24,7 +22,7 @@ Despite the name, this isn't meant to accurately simulate the growth of populati
 
 # Final Notes
 
-All programs here are written in Python 3, so make sure you have Python 3 and not Python 2 if you want to try them.
+All Python here are written in Python 3, so make sure you have Python 3 and not Python 2 if you want to try them.
 
 In addition to that, many of the programs (Excluding the Dice Roller) require modification to the code to change their numbers. I will most likely add user input later to counter this.
 
